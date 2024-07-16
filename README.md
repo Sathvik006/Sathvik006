@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 ## Hi there, I'm Sathvik 👋
 
 ### About Me
-I'm a passionate developer with expertise in Python, SQL, Java, and R.
+I'm a passionate developer with specialization in Artificial Intelligence and Data Analytics.
+I possess working knowledge of cloud technologies, enabling me to design and implement scalable, cloud-based data solutions.
 
 ### 🛠️ Programming Languages
 <p align="left">
